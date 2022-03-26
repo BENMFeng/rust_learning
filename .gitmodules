@@ -1,0 +1,3 @@
+[submodule "poem-openapi"]
+	path = poem-openapi
+	url = https://github.com/poem-web/poem-openapi.git

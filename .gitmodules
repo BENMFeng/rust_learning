@@ -1,3 +1,7 @@
 [submodule "poem-openapi"]
 	path = poem-openapi
 	url = https://github.com/poem-web/poem-openapi.git
+[submodule "fastq_io_bench/submodule/readfq"]
+	path = fastq_io_bench/submodule/readfq
+	url = https://github.com/lh3/readfq
+

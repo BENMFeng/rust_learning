@@ -1,0 +1,4 @@
+[submodule "bwa-sys/bwa"]
+	path = bwa-sys/bwa
+	url = https://github.com/10XGenomics/bwa.git
+	branch = Apache2
